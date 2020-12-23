@@ -1,0 +1,19 @@
+# .gitignore
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+py_utils/__pycache__/
+*.py[cod]
+
+# R Files
+*.RHistory
+_snaps/
+
+# Images, etc
+*.pdf
+*.png
+*.jpeg
+*.tiff
+
+# Mac Services
+*.DS_Store
